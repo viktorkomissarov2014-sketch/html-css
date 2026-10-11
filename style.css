@@ -1,0 +1,27 @@
+html{
+  background: #0b1026;
+  font-size:18px;
+  color: white;
+  text-align: center
+}
+header{
+  background: #111a3d;
+  border: 2px solid #89a8ff;
+   font-size: 80%
+}
+h2{
+  color: #e8ce58;
+   font-size: 25px;
+}
+a{
+  color: #5883e8
+}
+img{
+  border: 1px solid #89a8ff;
+  width: 75%
+}
+footer{
+  background: #111a3d;
+  border: 2px solid #89a8ff;
+    font-size: 80%
+}
